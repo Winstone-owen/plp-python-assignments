@@ -15,3 +15,6 @@ def read_and_mofify_file():
         # reversing order of characters in the file
         file.write(data[::-1])
         print(f"File {output_file_name} has been created with modified content.")
+
+#run the function
+read_and_mofify_file()
