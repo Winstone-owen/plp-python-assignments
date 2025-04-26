@@ -58,6 +58,7 @@ print("Logarithm:", sci_calc.logarithm())
 
 
 #Question 2
+#Polymorphism Challenge!
 
 class Person:
     def __init__(self, name, age):
