@@ -1,7 +1,12 @@
+# Ensure required libraries are installed before running this script.
+# Ensure required libraries are installed before running this script:
+# Run the following commands in your terminal:
+# pip install pandas
+# pip install matplotlib
+# pip install seaborn
+# pip install scikit-learn
+# This script performs data analysis and visualization on the Iris dataset.
 
-pip install pandas
-pip install matplotlib
-pip install seaborn
 # Import necessary libraries
 import pandas as pd
 import matplotlib.pyplot as plt
