@@ -1,4 +1,8 @@
 
+pip install pandas
+pip install matplotlib
+pip install seaborn
+# Import necessary libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
